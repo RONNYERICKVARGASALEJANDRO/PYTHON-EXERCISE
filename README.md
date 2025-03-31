@@ -1,2 +1,2 @@
-# TRABAJO.RONNY
-trabajos realizados en clase  cada semana
+# Ejercicios de python practicas para comprención de conceptos
+
